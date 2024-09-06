@@ -1,0 +1,14 @@
+# Archivos del entorno virtual
+webProyect/
+
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos de configuraciones específicas
+*.pyc
+__pycache__/
+*.log
+
+# Archivos y carpetas específicas de Django
+staticfiles/
+media/
